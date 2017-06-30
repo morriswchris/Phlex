@@ -1,0 +1,7 @@
+{
+  "name": "Phlex Heroku App",
+  "description": "Run Phlex on a heroku instance",
+  "repository": "https://github.com/d8ahazard/Phlex",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["Phlex", "Plex", "TV", "XAMPP", "Google Assistant"]
+}

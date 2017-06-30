@@ -6,7 +6,6 @@
 /Phlex.log*
 /Phlex_error.log*
 /PhlexREQ.log*
-/composer.lock
 /img/cache/*
 /.idea/*
 new_body.html
