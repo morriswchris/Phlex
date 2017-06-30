@@ -25,7 +25,14 @@ alt="Phlex Demo #2" width="480" height="360" border="10" /></a>
 <a href="http://s803.photobucket.com/user/d8ahazard/media/Phlex/6.png.html" target="_blank"><img src="http://i803.photobucket.com/albums/yy318/d8ahazard/Phlex/6.png" border="0" alt=" photo 6.png"/></a>
 
 ## Installation:
-<BR>
+
+### Heroku
+
+Install your own instance of Phlex to heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+### Manual Install
 
 Phlex requires a webserver and PHP 7.0+ with CURL and SSH enabled in order to work correctly.
 
